@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="address">123 West Ave. Austin, Texas 78753</string>
+    <string name="contact">Contact Us</string>
+    <string name="phone">512-888-9999</string>
+</resources>
